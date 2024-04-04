@@ -11,7 +11,7 @@ The "DATA_LEVEL" variable differentiates schools at the "Province Level" from th
 ## Tableau Dashboard
 
 <p>
-    <img width="702" alt="image" src="https://github.com/LIUAnthea/FSA-Score_Visualization/assets/130535253/2b45df07-b06f-4c03-96c5-1dac18710a9d"> <br>
+    <img width="900" alt="image" src="https://github.com/LIUAnthea/FSA-Score_Visualization/assets/130535253/2b45df07-b06f-4c03-96c5-1dac18710a9d"> <br>
     <em>Figure 1 </em>
 </p> <br>
 As shown in Figure 1, the FSA Score dashboard comprises five plots: a frequency chart, an area chart, two bar charts, and a distribution chart. The frequency chart enables users to see the percentage of the total score where they are located. Based on the selected FSA Skill Code and score, the frequency chart and the percentage number displayed atop it dynamically shift. The area chart visualizes the years in which students achieve the highest or lowest scores; the two bar charts provide a detailed look at score distributions among different test subjects, districts, school types, and student performances. The distribution chart offers a comparison of students who are performing well, averagely, or falling behind across different sub-demographics.<br>
@@ -19,7 +19,7 @@ We have incorporated two dropdown menus for users to select the test subject the
 
 ## Power BI Dashboard
 <p>
-    <img width="702" alt="image" src="https://github.com/LIUAnthea/FSA-Score_Visualization/assets/130535253/52e365a1-9e72-433b-b554-e0bba4c3366c"> <br>
+    <img width="900" alt="image" src="https://github.com/LIUAnthea/FSA-Score_Visualization/assets/130535253/52e365a1-9e72-433b-b554-e0bba4c3366c"> <br>
     <em>Figure 2 </em>
 </p> <br>
 In Figure 2, the FSA Score Dashboard presents a diverse array of visualizations, including one gauges, three cards, three KPI, one bar charts, and a map to provide a multifaceted view of student performance across districts. The gauge displays the average score, offering a quick and dynamic measure against the maximum scale. The cards and KPIs, highlighting percentages and sums, give a snapshot of writers' performance relative to benchmarks. A comparison of average scores is effectively presented through a bar chart, which also juxtaposes the sum of writers according to districts. The map furthers geographical analysis by plotting the average score per district, enabling users to visually correlate performance with location. 
