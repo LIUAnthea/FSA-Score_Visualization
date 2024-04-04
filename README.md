@@ -1,4 +1,4 @@
-# FSA-Score_Visualization <br>
+# FSA Score Visualization <br>
 ## Introduction
 In this project, our goal is to visualize the outcomes of the British Columbia Foundation Skills Assessments in Numeracy, Reading, and Writing for Grades 4 and 7, spanning from the 2007/2008 to 2020/2021 academic years. This analysis is designed to offer insights into students' performance, trends, differences among sub-populations, and progress in these areas over the 13-year period. It focuses on comparisons between different districts and types of students and evaluates whether students meet or exceed expectations.
 We employ Tableau and Power BI to develop a comprehensive dashboard and utilize a variety of visualization techniques, such as creating parameters, calculation fields, and DAX measures. These techniques enable us to analyze different metrics, providing deeper insights into the dataset.<br>
